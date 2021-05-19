@@ -31969,7 +31969,7 @@ video {
           transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   --tw-translate-x: -50%;
   --tw-translate-y: -50%;
-  background-image: url("../images/content/icon-play.svg#icon-play");
+  background-image: url("./images/content/icon-play.svg#icon-play");
   top: 50%;
   left: 50%;
 }
